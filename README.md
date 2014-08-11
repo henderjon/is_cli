@@ -4,7 +4,7 @@ Defines a constant for checking if the current process is being run via CLI.
 
 # usage
 
-`if(IS_CLI){ /* noop */ }`
+`if(IS_CLI){ /* noop */ }` or `if(is_cli()){ /* noop */ }`
 
 # installation
 
