@@ -8,7 +8,7 @@ Defines a constant for checking if the current process is being run via CLI.
 
 # installation
 
-Using [composer](http://getcomposer.org/) `"require" : { "henderjon/is_cli": "1.*" }`
+Using [composer](http://getcomposer.org/) `"require" : { "henderjon/is_cli": "~1.0" }`
 
 # license
 
