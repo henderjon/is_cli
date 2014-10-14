@@ -1,4 +1,4 @@
-(This is a BSD-3-Clause License)
+[![License](https://poser.pugx.org/henderjon/is_cli/license.svg)](https://packagist.org/packages/henderjon/is_cli)
 
 Copyright (c) 2012, Jon Henderson (@henderjon) All rights reserved.
 
